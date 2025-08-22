@@ -35,7 +35,7 @@ Cada exercício é exibido em um card separado, com inputs e resultados individu
 ---
 
 ## ▶️ Como executar
-1. Tenha um servidor PHP instalado (ex.: [XAMPP](https://www.apachefriends.org/pt_br/index.html).  
+1. Tenha um servidor PHP instalado (ex.: [XAMPP](https://www.apachefriends.org/pt_br/index.html)).  
 2. Coloque o arquivo `exercicios.php` dentro da pasta `htdocs` (ou equivalente).  
 3. Inicie o servidor.
 4. Crie uma pasta dentro de `htdocs` com qualquer nome desejado, neste exemplo será `nome_da_pasta`.
