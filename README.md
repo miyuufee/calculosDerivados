@@ -37,9 +37,10 @@ Cada exercício é exibido em um card separado, com inputs e resultados individu
 ## ▶️ Como executar
 1. Tenha um servidor PHP instalado (ex.: [XAMPP](https://www.apachefriends.org/pt_br/index.html) ou [Laragon](https://laragon.org/)).  
 2. Coloque o arquivo `exercicios.php` dentro da pasta `htdocs` (ou equivalente).  
-3. Inicie o servidor.  
-4. Acesse em:  
-http://localhost/exerciciosbasicos.php
+3. Inicie o servidor.
+4. Crie uma pasta dentro de `htdocs` com qualquer nome desejado, neste exemplo será `nome_da_pasta`.
+5. Acesse em:  
+  http://localhost/nome_da_pasta/exerciciosbasicos.php
 
 ---
 
