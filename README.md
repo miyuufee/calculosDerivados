@@ -39,7 +39,7 @@ Cada exercício é exibido em um card separado, com inputs e resultados individu
 2. Coloque o arquivo `exercicios.php` dentro da pasta `htdocs` (ou equivalente).  
 3. Inicie o servidor.  
 4. Acesse em:  
-http://localhost/exercicios.php
+http://localhost/exerciciosbasicos.php
 
 ---
 
